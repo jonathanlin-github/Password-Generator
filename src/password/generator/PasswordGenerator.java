@@ -104,7 +104,7 @@ public class PasswordGenerator extends javax.swing.JFrame {
         capitalizedButton.setBackground(new java.awt.Color(204, 0, 0));
         capitalizedButton.setForeground(new java.awt.Color(0, 0, 0));
         capitalizedButton.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        capitalizedButton.setText("Capitalized Letter");
+        capitalizedButton.setText("Capitalized Letters");
         capitalizedButton.setOpaque(true);
         capitalizedButton.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -115,7 +115,7 @@ public class PasswordGenerator extends javax.swing.JFrame {
         numberButton.setBackground(new java.awt.Color(204, 0, 0));
         numberButton.setForeground(new java.awt.Color(0, 0, 0));
         numberButton.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        numberButton.setText("Number");
+        numberButton.setText("Numbers");
         numberButton.setOpaque(true);
         numberButton.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -126,7 +126,7 @@ public class PasswordGenerator extends javax.swing.JFrame {
         symbolButton.setBackground(new java.awt.Color(204, 0, 0));
         symbolButton.setForeground(new java.awt.Color(0, 0, 0));
         symbolButton.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        symbolButton.setText("Special Symbol");
+        symbolButton.setText("Special Symbols");
         symbolButton.setOpaque(true);
         symbolButton.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
