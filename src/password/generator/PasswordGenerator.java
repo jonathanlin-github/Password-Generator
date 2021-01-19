@@ -42,7 +42,7 @@ public class PasswordGenerator extends javax.swing.JFrame {
             int chType = rand.nextInt(5);
             boolean added = false;
             if (chType == 0){
-                if (capitalized == true) {
+                if (number == true) {
                     String characters = "1234567890";
                     int index = rand.nextInt(characters.length()-1);
                     text = text + characters.substring(index,index+1);
